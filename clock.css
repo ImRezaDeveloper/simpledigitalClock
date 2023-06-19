@@ -1,0 +1,7 @@
+#MyClockDisplay{
+    color: rgb(199, 233, 119);
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 690px;
+    font-size: 70px;
+}
